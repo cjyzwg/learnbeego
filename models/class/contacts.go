@@ -3,7 +3,7 @@ package class
 import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
-	"learnbeego/blog/tools"
+	"github.com/cjyzwg/learnbeego/tools"
 	"time"
 )
 

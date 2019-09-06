@@ -1,6 +1,6 @@
 package controllers
 import (
-	"learnbeego/blog/models/class"
+    "github.com/cjyzwg/learnbeego/models/class"
     "github.com/astaxie/beego"
     "strings"
     "sort"

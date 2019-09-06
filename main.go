@@ -1,9 +1,9 @@
 package main
 
 import (
-	_ "learnbeego/blog/models"
+	_ "github.com/cjyzwg/learnbeego/models"
 	"github.com/astaxie/beego/logs"
-	_ "learnbeego/blog/routers"
+	_ "github.com/cjyzwg/learnbeego/routers"
 	"github.com/astaxie/beego"
 	 "encoding/json"
     "fmt"
